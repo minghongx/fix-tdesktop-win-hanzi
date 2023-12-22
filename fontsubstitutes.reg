@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"DAOpenSans"="Microsoft YaHei UI"
+"DAOpenSansBold"="Microsoft YaHei UI Bold"
+"DAOpenSansBoldItalic"="Microsoft YaHei"
+"DAOpenSansRegular"="Microsoft YaHei"
+"DAOpenSansRegularItalic"="Microsoft YaHei"
+"DAOpenSansSemibold"="Microsoft YaHei"
+"DAOpenSansSemiboldItalic"="Microsoft YaHei"
+"DAVazir"="Microsoft YaHei"
+"DAVazirBold"="Microsoft YaHei Bold"
+"DAVazirMedium"="Microsoft YaHei Light"
+"DAVazirRegular"="Microsoft YaHei"
+"Cascadia Mono"="Consolas"

@@ -1,1 +1,2 @@
-# fix-tdesktop-win-hanzi
+- [Implementaion of font selection](https://github.com/desktop-app/lib_ui/blob/c5a616de350eafd780eceb853d149afe7d1951d0/ui/style/style_core_font.cpp#L105-L164)
+- [Telegram fonts](https://github.com/desktop-app/lib_ui/tree/c5a616de350eafd780eceb853d149afe7d1951d0/fonts)
